@@ -1,0 +1,302 @@
+{
+    "ProductCategory": [
+      {
+        "Id": 1,
+        "CategoryName": "Book"
+      },
+      {
+        "Id": 2,
+        "CategoryName": "Perfume"
+      },
+      {
+        "Id": 3,
+        "CategoryName": "Electronics"
+      },
+      {
+        "Id": 4,
+        "CategoryName": "Electronics 1"
+      }
+    ],
+    "Electronics1": [
+      {
+        "id": "e1",
+        "productName": "vivo Y11s 4G Smartphone, 32GB, 6.51\" HD Display (Phantom Black)",
+        "price": 197,
+        "wirelessCarrier": "Unlocked for All Carriers",
+        "brand": "VIVO",
+        "colour": "Black",
+        "memoryStorageCapacity": "3 GB",
+        "screenSize": "6.51 Inches",
+        "operatingSystem": ""
+      },
+      {
+        "id": "e2",
+        "productName": "Samsung Galaxy A21S 128GB Black",
+        "price": 294.26,
+        "wirelessCarrier": "Unlocked for All Carriers",
+        "brand": "Samsung",
+        "colour": "White",
+        "memoryStorageCapacity": "128 GB",
+        "screenSize": "",
+        "operatingSystem": "Android 10.0, Android"
+      },
+      {
+        "id": "e3",
+        "productName": "Nokia 2720 Flip 4G (Official Australian Version) 2019 Unlocked Basic Mobile Phone with Social Apps, Emergency Button, 28 Days Battery Standby and Google Assistant, Ocean Black, 2.8 inches",
+        "price": 114,
+        "wirelessCarrier": "Unlocked for All Carriers",
+        "brand": "Nokia",
+        "colour": "Ocean Black",
+        "memoryStorageCapacity": "4 GB",
+        "screenSize": "2.8 inches",
+        "operatingSystem": "KaiOS"
+      },
+      {
+        "id": "e4",
+        "productName": "Apple iPhone 12 Pro Max 256Gb Gold (MGD13J/A)",
+        "price": 2019.00,
+        "wirelessCarrier": "Unlocked for All Carriers",
+        "brand": "Apple",
+        "colour": "Gold",
+        "memoryStorageCapacity": "6 GB",
+        "screenSize": "6.7 Inches",
+        "operatingSystem": "iOS"
+      }
+    ],
+    "Electronics2": [
+      {
+        "id": "e5",
+        "productName": "Dell Inspiron 15 3000 Full HD Touchscreen Laptop Core i7-1065G7 up to 3.90 GHz 20GB RAM 1TB SSD+1TB HDD Numeric Keypad HDMI WiFi RJ-45 Ethernet Win 10 QWERTY US",
+        "price": 748.07,
+        "brand": "DELL",
+        "os": "Windows 10",
+        "cpu": "Intel",
+        "screenSize": "15.6 Inches",
+        "computerMemorySize": "8 GB",
+        "hardDiskSize": ""
+      },
+      {
+        "id": "e6",
+        "productName": "Huawei MateBook D 15 2020 - 15.6 Inch Laptop with FullView 1080P FHD Ultrabook PC (AMD Ryzen 5 3500U, 8GB RAM, 256GB SSD, Windows 10 Home, Multi-Screen Collaboration, Fingerprint Reader), Space Grey",
+        "price": 831.93,
+        "brand": "HUAWEI",
+        "os": "Windows 10 Home",
+        "cpu": "AMD",
+        "screenSize": "15.6 Inches",
+        "computerMemorySize": "8 GB",
+        "hardDiskSize": ""
+      },
+      {
+        "id": "e7",
+        "productName": "Lenovo Ideapad Duet Chromebook, Chrome OS, 4GB RAM, 128GB SSD, 10.1\" CT-X636F, Ice Blue + Iron Grey, ZA6F0017AU, AU Version",
+        "price": 395,
+        "brand": "Lenovo",
+        "os": "Chrome OS",
+        "cpu": "Others",
+        "screenSize": "10.1 Inches",
+        "computerMemorySize": "4 GB",
+        "hardDiskSize": ""
+      },
+      {
+        "id": "e8",
+        "productName": "Apple MacBook Pro | 15.4\" | 2.9GHz 6-core i9 | 1TB Storage | 32GB Memory | Radeon Pro Vega 20 | Space Grey | 2018 | (Renewed)",
+        "price": 4779.00,
+        "brand": "Apple",
+        "os": "Mac OS X",
+        "cpu": "Intel",
+        "screenSize": "",
+        "computerMemorySize": "32 GB",
+        "hardDiskSize": "1TB"
+      }
+    ],
+    "Book": [
+      {
+        "id": "b1",
+        "bookName": "The Power of HABIT",
+        "description": "The Power of HABIT: Why We Do What We Do in Life and Business. A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed.",
+        "price": 16.33,
+        "author": "Charles Duhigg",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51ejXdSceNL._AA300_.jpg",
+        "inCart": false,
+        "category": "business"
+      },
+      {
+        "id": "b2",
+        "bookName": "Think and Grow Rich",
+        "description": "'Think and Grow Rich!' explains entrepreneur Andrew Carnegie’s secret to success, revealed to Napoleon Hill during private interviews with Carnegie, the richest man of his time, and during more than 20 years of research into the lives and philosophies of more than 500 of the most successful people in America. This timeless classic presents a systematic nuts-and-bolts approach to developing the skills and mindset required to achieve exceptional success in any field or endeavor, personal or professional. Hill explains in detail 13 steps required to achieve those goals. The book contains numerous self-tests and checklists.",
+        "price": 8.98,
+        "author": "Napoleon Hill",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51ZouHoBGtL._SX315_BO1,204,203,200_.jpg",
+        "inCart": false,
+        "category": "business"
+      },
+      {
+        "id": "b3",
+        "bookName": "The 7 Habits of Highly Effective People",
+        "description": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. The 7 Habits of Highly Effective People, the beloved classic that has sold over 20 million copies worldwide, is celebrating its 25th anniversary with this reissue! With a new foreword, the wisdom of the 7 Habits still holds true after all these years. The 7 Habits have become so famous because they work. They have been integrated into everyday thinking by many millions of people. The reason: They work. Habit 1: Be Proactive. Habit 2: Begin with the End in Mind. Habit 3: Put First Things First. Habit 4: Think Win/Win. Habit 5: Seek First to Understand, Then to Be Understood. Habit 6: Synergize. Habit 7: Sharpen the Saw. The book presents a principle-centered approach for solving personal and professional problems.",
+        "price": 11.48,
+        "author": "Stephen R. Covey",
+        "type": "paperback",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51Myx6jMujL._AA300_.jpg",
+        "inCart": false,
+        "category": "business"
+      },
+      {
+        "id": "b4",
+        "bookName": "Principles: Life and Work",
+        "description": "In Principles, Dalio shares what he's learned over the course of his remarkable career. He argues that life, management, economics, and investing can all be systemized into rules and understood like machines.",
+        "price": 18,
+        "author": "Ray Dalio",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51UyMOpP%2BGL._AA300_.jpg",
+        "inCart": false,
+        "category": "business"
+      },
+      {
+        "id": "b5",
+        "bookName": "How to Win Friends & Influence People",
+        "description": "For more than sixty years the rock-solid, time-tested advice in this book has carried thousands of now famous people up the ladder of success in their business and personal lives. Now this previously revised and updated bestseller is available in trade paperback for the first time to help you achieve your maximum potential throughout the next century!",
+        "price": 9.6,
+        "author": "Dale Carnegie",
+        "type": "paperback",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51PWIy1rHUL._AA300_.jpg",
+        "inCart": false,
+        "category": "business"
+      },
+      {
+        "id": "b6",
+        "bookName": "The Whole 30",
+        "description": "Since 2009, Melissa Hartwig’s critically-acclaimed Whole30 program has quietly led hundreds of thousands of people to effortless weight loss and better health—along with stunning improvements in sleep quality, energy levels, mood, and self-esteem. The program accomplishes all of this by specifically targeting people’s habits and emotional relationships with food. The Whole30 is designed to help break unhealthy patterns of behavior, stop stress-related comfort eating, and reduce cravings, particularly for sugar and carbohydrates. Many Whole30 participants have described achieving 'food freedom'—in just thirty days.",
+        "price": 18,
+        "author": "Melissa Hartwig",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61WFjEDBktL._SX437_BO1,204,203,200_.jpg",
+        "inCart": false,
+        "category": "cookbooks"
+      },
+      {
+        "id": "b7",
+        "bookName": "The Food Lab",
+        "description": "Ever wondered how to pan-fry a steak with a charred crust and an interior that's perfectly medium-rare from edge to edge when you cut into it? How to make homemade mac 'n' cheese that is as satisfyingly gooey and velvety-smooth as the blue box stuff, but far tastier? How to roast a succulent, moist turkey (forget about brining!)―and use a foolproof method that works every time?",
+        "price": 33.94,
+        "author": "J. Kenji López-Alt",
+        "type": "harcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/419aGgQt-5L._SX392_BO1,204,203,200_.jpg",
+        "inCart": false,
+        "category": "cookbooks"
+      },
+      {
+        "id": "b10",
+        "bookName": "True Fiction (Ian Ludlow Thrillers)",
+        "description": "A breakneck thriller where truth and fiction collide for the unluckiest writer alive.",
+        "price": 4.99,
+        "author": "Lee Goldberg",
+        "type": "kindle",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51UbplnqSgL._SX331_BO1,204,203,200_.jpg",
+        "inCart": false,
+        "category": "mystery"
+      },
+      {
+        "id": "b11",
+        "bookName": "The Last Move",
+        "description": "An FBI agent must catch a copycat killer. The only difference this time: she's the final victim.",
+        "price": 7.91,
+        "author": "Mary Burton",
+        "type": "paperback",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/514jRDA21TL._AA300_.jpg",
+        "inCart": false,
+        "category": "mystery"
+      },
+      {
+        "id": "b12",
+        "bookName": "Stillhouse Lake (Stillhouse Lake Series)",
+        "description": "Gina Royal is the definition of average—a shy Midwestern housewife with a happy marriage and two adorable children. But when a car accident reveals her husband’s secret life as a serial killer, she must remake herself as Gwen Proctor—the ultimate warrior mom.",
+        "price": 8.96,
+        "author": "Rachel Caine",
+        "type": "paperback",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41RTt7alEqL._SX332_BO1,204,203,200_.jpg",
+        "inCart": false,
+        "category": "mystery"
+      },
+      {
+        "id": "b16",
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "description": "On Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+        "price": 24.64,
+        "author": "J.K.Rowling",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51qlgJ6ZojL.jpg",
+        "inCart": false,
+        "category": "scifi"
+      },
+      {
+        "id": "b17",
+        "bookName": "A Game of Thrones: A Song of Ice and Fire, Book 1",
+        "description": "As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced.",
+        "price": 25.16,
+        "author": "George R. R. Martin",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51n5SAiAz7L._AA300_.jpg",
+        "inCart": false,
+        "category": "accessories"
+      },
+      {
+        "id": "b18",
+        "bookName": "The Lord of the Rings: One Volume",
+        "description": "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others.",
+        "price": 27.66,
+        "author": "J.R.R. Tolkien",
+        "type": "hardcover",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51d4G0sFMzL.jpg",
+        "inCart": false,
+        "category": "scifi"
+      }
+    ],
+    "Perfume": [
+      {
+        "id": "p1",
+        "productName": "Calvin Klein Beauty Eau de Parfum for Women, 100ml",
+        "price": 39.99,
+        "brand": "Calvin Klein",
+        "ingredients": ["Alcohol Denat", "Water", "Parfum"],
+        "itemWeight": "1 Pounds"
+      },
+      {
+        "id": "p2",
+        "productName": "Burberry London Fabric Eau De Parfum, 100ml",
+        "price": 49.99,
+        "brand": "BURBERRY",
+        "ingredients": ["Alcohol Denat", "Water", "Parfum."],
+        "itemWeight": "100 Grams"
+      },
+      {
+        "id": "p13",
+        "productName": "Jimmy Choo Eau de Toilette, 100ml",
+        "price": 71.94,
+        "brand": "JIMMY CHOO",
+        "ingredients": ["Water", "alcohol denatured", "limonene", "and linalool."],
+        "itemWeight": "0.37 Kilograms"
+      },
+      {
+        "id": "p25",
+        "productName": "Lancome La Vie Est Belle L'Eau de Parfum Spray 100ml",
+        "price": 139.99,
+        "brand": "Lancome",
+        "ingredients": [
+          "ALCOHOL - PARFUM / FRAGRANCE - AQUA / WATER - LINALOOL - BENZYL SALICYLATE - LIMONENE - METHYL ANTHRANILATE - TRIS (TETRAMETHYLHYDROXYPIPERIDINOL) CITRATE - ETHYLHEXYL METHOXYCINNAMATE - BUTYL METHOXYDIBENZOYLMETHANE - CI 147 / RED 4 - CI 172 / RED 33 - CI 475 / YELLOW 1 - GERANIOL - ALPHA-ISOMETHYL IONONE - COUMARIN - FARNESOL - CITRAL - CITRONELLOL - BENZYL ALCOHOL - BENZYL BENZOATE"
+        ],
+        "itemWeight": "1 Pounds"
+      },
+      {
+        "id": "p28",
+        "productName": "Roja Parfums Goodnight Kiss Parfum 3.4oz/100ml New In Box",
+        "price": 2500.00,
+        "brand": "",
+        "ingredients": [],
+        "itemWeight": ""
+      }
+    ]
+  }
+  

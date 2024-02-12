@@ -1,0 +1,61 @@
+<Books>
+    <Book>
+        <id>b11</id>
+        <BookName>The Last Move</BookName>
+        <Description>An FBI agent must catch a copycat killer. The only difference this time: she's the final victim...</Description>
+        <Price>7.91</Price>
+        <Author>Mary Burton</Author>
+        <Type>paperback</Type>
+        <Img>https://images-na.ssl-images-amazon.com/images/I/514jRDA21TL._AA300_.jpg</Img>
+        <InCart>FALSE</InCart>
+        <Category>mystery</Category>
+    </Book>
+
+    <Book>
+        <id>b12</id>
+        <BookName>Stillhouse Lake (Stillhouse Lake Series)</BookName>
+        <Description>Gina Royal is the definition of average—a shy Midwestern housewife with a happy marriage...</Description>
+        <Price>8.96</Price>
+        <Author>Rachel Caine</Author>
+        <Type>paperback</Type>
+        <Img>https://images-na.ssl-images-amazon.com/images/I/41RTt7alEqL._SX332_BO1,204,203,200_.jpg</Img>
+        <InCart>FALSE</InCart>
+        <Category>mystery</Category>
+    </Book>
+
+    <Book>
+        <id>b16</id>
+        <BookName>Harry Potter and the Sorcerer's Stone</BookName>
+        <Description>On Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid...</Description>
+        <Price>24.64</Price>
+        <Author>J.K. Rowling</Author>
+        <Type>hardcover</Type>
+        <Img>https://images-na.ssl-images-amazon.com/images/I/51qlgJ6ZojL.jpg</Img>
+        <InCart>FALSE</InCart>
+        <Category>scifi</Category>
+    </Book>
+
+    <Book>
+        <id>b17</id>
+        <BookName>A Game of Thrones: A Song of Ice and Fire, Book 1</BookName>
+        <Description>As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing...</Description>
+        <Price>25.16</Price>
+        <Author>George R. R. Martin</Author>
+        <Type>hardcover</Type>
+        <Img>https://images-na.ssl-images-amazon.com/images/I/51n5SAiAz7L._AA300_.jpg</Img>
+        <InCart>FALSE</InCart>
+        <Category>scifi</Category>
+    </Book>
+
+    <Book>
+        <id>b18</id>
+        <BookName>The Lord of the Rings: One Volume</BookName>
+        <Description>In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord...</Description>
+        <Price>27.66</Price>
+        <Author>J.R.R. Tolkien</Author>
+        <Type>hardcover</Type>
+        <Img>https://images-na.ssl-images-amazon.com/images/I/51d4G0sFMzL.jpg</Img>
+        <InCart>FALSE</InCart>
+        <Category>scifi</Category>
+    </Book>
+</Books>

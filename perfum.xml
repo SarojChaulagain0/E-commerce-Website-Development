@@ -1,0 +1,47 @@
+
+<Perfumes>
+  <Perfume>
+    <id>p1</id>
+    <ProductName>Calvin Klein Beauty Eau de Parfum for Women, 100ml</ProductName>
+    <Price>39.99</Price>
+    <Brand>Calvin Klein</Brand>
+    <Ingredients>Alcohol Denat, Water, Parfum</Ingredients>
+    <ItemWeight>1 Pounds</ItemWeight>
+  </Perfume>
+
+  <Perfume>
+    <id>p2</id>
+    <ProductName>Burberry London Fabric Eau De Parfum, 100ml</ProductName>
+    <Price>49.99</Price>
+    <Brand>BURBERRY</Brand>
+    <Ingredients>Alcohol Denat, Water, Parfum.</Ingredients>
+    <ItemWeight>100 Grams</ItemWeight>
+  </Perfume>
+
+  <Perfume>
+    <id>p13</id>
+    <ProductName>Jimmy Choo Eau de Toilette, 100ml</ProductName>
+    <Price>71.94</Price>
+    <Brand>JIMMY CHOO</Brand>
+    <Ingredients>Water, alcohol denatured, limonene, and linalool.</Ingredients>
+    <ItemWeight>0.37 Kilograms</ItemWeight>
+  </Perfume>
+
+  <Perfume>
+    <id>p25</id>
+    <ProductName>Lancome La Vie Est Belle L'Eau de Parfum Spray 100ml</ProductName>
+    <Price>139.99</Price>
+    <Brand>Lancome</Brand>
+    <Ingredients>ALCOHOL - PARFUM / FRAGRANCE - AQUA / WATER - LINALOOL - BENZYL SALICYLATE - LIMONENE...</Ingredients>
+    <ItemWeight>1 Pounds</ItemWeight>
+  </Perfume>
+
+  <Perfume>
+    <id>p28</id>
+    <ProductName>Roja Parfums Goodnight Kiss Parfum 3.4oz/100ml New In Box</ProductName>
+    <Price>2,500.00</Price>
+    <Brand></Brand>
+    <Ingredients></Ingredients>
+    <ItemWeight></ItemWeight>
+  </Perfume>
+</Perfumes>

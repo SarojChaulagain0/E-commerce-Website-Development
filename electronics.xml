@@ -1,0 +1,92 @@
+<Electronics>
+  <Electronics1>
+    <id>e1</id>
+    <ProductName>vivo Y11s 4G Smartphone, 32GB, 6.51" HD Display (Phantom Black)</ProductName>
+    <Price>197</Price>
+    <WirelessCarrier>Unlocked for All Carriers</WirelessCarrier>
+    <Brand>VIVO</Brand>
+    <Colour>Black</Colour>
+    <MemoryStorageCapacity>3 GB</MemoryStorageCapacity>
+    <ScreenSize>6.51 Inches</ScreenSize>
+    <OperatingSystem></OperatingSystem>
+  </Electronics1>
+
+  <Electronics1>
+    <id>e2</id>
+    <ProductName>Samsung Galaxy A21S 128GB Black</ProductName>
+    <Price>294.26</Price>
+    <WirelessCarrier>Unlocked for All Carriers</WirelessCarrier>
+    <Brand>Samsung</Brand>
+    <Colour>White</Colour>
+    <MemoryStorageCapacity>128 GB</MemoryStorageCapacity>
+    <ScreenSize></ScreenSize>
+    <OperatingSystem>Android 10.0, Android</OperatingSystem>
+  </Electronics1>
+
+  <Electronics1>
+    <id>e3</id>
+    <ProductName>Nokia 2720 Flip 4G (Official Australian Version) 2019 Unlocked Basic Mobile Phone...</ProductName>
+    <Price>114</Price>
+    <WirelessCarrier>Unlocked for All Carriers</WirelessCarrier>
+    <Brand>Nokia</Brand>
+    <Colour>Ocean Black</Colour>
+    <MemoryStorageCapacity>4 GB</MemoryStorageCapacity>
+    <ScreenSize>2.8 inches</ScreenSize>
+    <OperatingSystem>KaiOS</OperatingSystem>
+  </Electronics1>
+
+  <Electronics1>
+    <id>e4</id>
+    <ProductName>Apple iPhone 12 Pro Max 256Gb Gold (MGD13J/A)</ProductName>
+    <Price>2,019.00</Price>
+    <WirelessCarrier>Unlocked for All Carriers</WirelessCarrier>
+    <Brand>Apple</Brand>
+    <Colour>Gold</Colour>
+    <MemoryStorageCapacity>6 GB</MemoryStorageCapacity>
+    <ScreenSize>6.7 Inches</ScreenSize>
+    <OperatingSystem>IOS</OperatingSystem>
+  </Electronics1>
+  <Electronics2>
+      <id>e5</id>
+      <ProductName>Dell Inspiron 15 3000 Full HD Touchscreen Laptop Core i7-1065G7 up to 3.90 GHz...</ProductName>
+      <Price>748.07</Price>
+      <Brand>DELL</Brand>
+      <OS>Windows 10</OS>
+      <CPU>Intel</CPU>
+      <ScreenSize>15.6 Inches</ScreenSize>
+      <ComputerMemorySize>8 GB</ComputerMemorySize>
+    </Electronics2>
+
+    <Electronics2>
+      <id>e6</id>
+      <ProductName>Huawei MateBook D 15 2020 - 15.6 Inch Laptop with FullView 1080P FHD Ultrabook PC...</ProductName>
+      <Price>831.93</Price>
+      <Brand>HUAWEI</Brand>
+      <OS>Windows 10 Home</OS>
+      <CPU>AMD</CPU>
+      <ScreenSize>15.6 Inches</ScreenSize>
+      <ComputerMemorySize>8 GB</ComputerMemorySize>
+    </Electronics2>
+
+    <Electronics2>
+      <id>e7</id>
+      <ProductName>Lenovo Ideapad Duet Chromebook, Chrome OS, 4GB RAM, 128GB SSD, 10.1" CT-X636F...</ProductName>
+      <Price>395</Price>
+      <Brand>Lenovo</Brand>
+      <OS>Chrome OS</OS>
+      <CPU>Others</CPU>
+      <ScreenSize>10.1 Inches</ScreenSize>
+      <ComputerMemorySize>4 GB</ComputerMemorySize>
+    </Electronics2>
+
+    <Electronics2>
+      <id>e8</id>
+      <ProductName>Apple MacBook Pro | 15.4" | 2.9GHz 6-core i9 | 1TB Storage | 32GB Memory | Radeon...</ProductName>
+      <Price>4,779.00</Price>
+      <Brand>Apple</Brand>
+      <OS>Mac OS X</OS>
+      <CPU>Intel</CPU>
+      <ComputerMemorySize>32 GB</ComputerMemorySize>
+      <HardDiskSize>1TB</HardDiskSize>
+    </Electronics2>
+</Electronics>
